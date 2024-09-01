@@ -1,9 +1,8 @@
 # Cross-Stitch-DMC-replace-colors
 
-This script was originally available under the following (now dead) URL:
-```
-https://www.gimplearn.net/viewtopic.php/Generate-Cross-Stitch-pattern-and-DMC-thread-information-Script-for-GIMP?t=519
-```
+This script was originally available on the now defunct `gimplearn.net` forums.
+
+Archived version of the forum thread is available here: [Generate Cross Stitch pattern and DMC thread information Script for GIMP](https://web.archive.org/web/20221209152439/https://www.gimplearn.net/viewtopic.php/Generate-Cross-Stitch-pattern-and-DMC-thread-information-Script-for-GIMP?t=519)
 
 I am simply making it available here, as it seems that free and open solutions have been on the decline, with paid software taking over the scene.
 
