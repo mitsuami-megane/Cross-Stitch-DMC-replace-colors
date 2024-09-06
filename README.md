@@ -9,7 +9,7 @@ I am simply making it available here, as it seems that free and open solutions h
 
 ## Installation
 
-I tested this on GIMP 2.10.8, some newer versions (2.10.30+) seem to not work anymore.
+I tested this on GIMP 2.10.24, some newer versions (2.10.30+) seem to not work anymore.
 
 1. Right-Click and select Save-as: [cross_stitch_tt.py](https://github.com/mitsuami-megane/Cross-Stitch-DMC-replace-colors/raw/main/cross_stitch_tt.py)
 2. Save it into: `C:\Users\YourName\AppData\Roaming\GIMP\2.10\plug-ins`
